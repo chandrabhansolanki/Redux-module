@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "script": "^0.1.4",
+    "scripts": "^0.1.0"
+  }
+}
